@@ -14,9 +14,9 @@
 
 **Mi expericia :**
 
-- 🎮 Desarrollo de aplicaciones que hacen uso de la realidad Aumentada para dispositivos móviles con S.O. Android.
-- 🤖 He construido prototipos electrónicos funcionales para su aplicación en diversas ramas.
-- 📱 He diseñado interfaces de usuario intuitivas y atractivas para las aplicaciones ue he desarrollado.
+- 🎮 Desarrollo de aplicaciones que hacen uso de la realidad Aumentada para dispositivos móviles con sistema operativo Android.
+- 🤖 He construido prototipos electrónicos (Arduino) funcionales para su aplicación en diversas ramas académicas.
+- 📱 He diseñado interfaces de usuario intuitivas y atractivas para las aplicaciones que he desarrollado.
 
 <hr style="color: #808080;">
 <h3 align="left">Tecnologías</h3>
@@ -31,3 +31,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<hr style="color: #808080;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marckrosasdev&layout=compact&theme=dark)
+
+<hr style="color: #808080;">
+<h3 align="left">Otros conocimientos</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=arduino&perline=3)](https://skillicons.dev)
