@@ -1,21 +1,21 @@
-## Bienvenid@s 👋
+<h1 align="center">¡Hola a tod@s!, Soy: </h1>
 
 ![Banner de MarckRosasDev](Banner_MarckRosasDev_1920x839.png)
 
+<hr style="color: #808080;">
+
+<h3 align="left">Contacta conmigo </h3>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoantonioolmos)
 
+<hr style="color: #808080;">
 
-<!--
-**MarckRosasDev/MarckRosasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarckRosasDev**  es ingeniero Electrónico con Maestría en Computación Aplicada. Se ha desempeñado en diversos puestos de trabajo, desde mantenimiento a equipo de cómputo, hasta desarrollo de videojuegos y aplicaciones que hacen uso de Realidad Aumentada con fines de investigación académica.
 
-Here are some ideas to get you started:
+Mi expericia :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Desarrollo de aplicaciones que hacen uso de la realidad Aumentada para dispositivos móviles con S.O. Android.
+- 🤖 He construido prototipos electrónicos funcionales para su aplicación en diversas ramas.
+- 📱 He diseñado interfaces de usuario intuitivas y atractivas para las aplicaciones ue he desarrollado.
+
+
